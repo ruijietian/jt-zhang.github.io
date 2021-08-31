@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jt-zhang/picgozjt/master/裁剪半身照2.jpg" alt="Test Image" style="width:18%;display:inline" align="left"> 
+<img src="https://raw.githubusercontent.com/jt-zhang/picgozjt/master/裁剪半身照2.jpg" alt="Test Image" style="width:10%;display:inline" align="left"> 
 
   <font size=5>**Jintao Zhang (张金涛)**</font>
   M.Sc. Student
